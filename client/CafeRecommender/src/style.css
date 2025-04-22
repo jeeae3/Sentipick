@@ -1,0 +1,72 @@
+/* Global Style */
+body {
+  background-color: #fdf6e3; /* light cream */
+  color: #4e342e;            /* deep brown */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+header {
+  background-color: #d7ccc8; /* soft taupe */
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  color: #3e2723;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Input and Buttons */
+input[type="text"], button {
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #a1887f;
+  margin: 0.5rem;
+  font-size: 1rem;
+}
+
+input[type="text"] {
+  background-color: #fff8e1;
+  color: #4e342e;
+}
+
+button {
+  background-color: #8d6e63;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #6d4c41;
+}
+
+/* Café List */
+.cafe-list {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cafe-card {
+  background-color: #f5f5dc; /* beige/cream */
+  border: 1px solid #d7ccc8;
+  border-radius: 12px;
+  padding: 1rem 1.5rem;
+  margin: 1rem;
+  width: 90%;
+  max-width: 500px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.cafe-card h3 {
+  margin: 0;
+  color: #3e2723;
+}
+
+.cafe-card p {
+  margin: 0.5rem 0 0;
+  color: #5d4037;
+}
