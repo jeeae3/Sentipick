@@ -1,0 +1,99 @@
+﻿cafe_id,name,avg_stars,ratings,cost,type,location
+1,Elixr Coffee Roasters,4.6,"(1,603)",$1–10,Coffee shop,207 S Sydenham St
+2,Café Tolia,4.8,(271),$10–20,Coffee shop,26 N 3rd St
+3,CNT Cafe,4.9,(130),$1–10,Coffee shop,716 N 3rd St
+4,Vernick Coffee Bar,4.4,(201),$1–10,Coffee shop,"lobby, Comcast Technology Center, 1800 Arch St 2nd floor"
+5,The Ground Rittenhouse,4.7,(125),$1–10,Coffee shop,120 S 18th St
+6,Black Turtle Coffee,4.3,(311),$1–10,Coffee shop,2100 Chestnut St Fl 1
+7,Talula's Daily,4.6,(520),$10–20,Coffee shop,208 W Washington Square
+8,Chapterhouse Cafe & Gallery,4.6,(531),$1–10,Cafe,620 S 9th St
+9,Paris Baguette,4.5,(428),$$,Coffee shop,923 Arch St
+10,Good Karma Cafe,4.6,(555),$1–10,Cafe,928 Pine St
+11,Café Walnut,4.7,(357),$1–10,Coffee shop,703 Walnut St
+12,Time & Peace Café and Gallery,4.9,(147),$1–10,Cafe,36 S 7th St
+13,Matcha Panda Cafe,4.8,(415),$,Dessert shop,202 N 9th St
+14,Café Square One,4.3,(76),$10–20,Cafe,1225 Walnut St
+15,Café Couleur Banh mì,4.9,(166),$10–20,Coffee shop,323 Arch St
+16,Le Pain Quotidien,4.2,(640),$10–20,Coffee shop,801 Walnut St
+17,Cuor di Caffè,4.8,(131),$1–10,Coffee shop,100 Market St
+18,Matcha Cafe Maiko,4.7,(228),$1–10,Cafe,923 Race St
+19,Twisted Grounds,4.8,(174),$1–10,Coffee shop,547 N 20th St
+20,Good Karma Cafe,4.5,(340),$1–10,Cafe,331 S 22nd St
+21,Vibrant Coffee Roasters & Bakery,4.6,(240),$1–10,Cafe,222 W Rittenhouse Square 1st Floor
+22,Drip Vietnamese Cafe,4.8,(70),$1–10,Coffee shop,225 N 11th St
+23,J'aime French Cafe,4.8,(87),$1–10,Coffee shop,401 S 17th St
+24,Nook Bakery & Coffee Bar,4.7,(361),$1–10,Coffee shop,15 S 20th St
+25,Mr. Rabbit Coffee,4.8,(85),$1–10,Coffee shop,2301 Spruce St
+26,Alchemy Coffee,4.4,(207),$1–10,Coffee shop,119 S 21st St
+27,Cafe Ole,4.6,(736),$10–20,Cafe,147 N 3rd St
+28,Cherry Cafe,5.0,(209),$1–10,Cafe,"inside of, Three Parkway Building, 1601 Cherry St Suite 120"
+29,Tuscany Cafe (Locust Street),4.8,(224),$10–20,Cafe,230 S Broad St
+30,A La Mousse,4.6,"(1,355)",$10–20,Cafe,145 N 11th St
+31,Olivier Cafe,4.6,(105),$10–20,Cafe,50 S 3rd St
+32,Coffee Zeit,4.8,(216),$1–10,Coffee shop,246 Race St
+33,Green Line Cafe,4.4,(53),$1–10,Coffee shop,1650 Arch St
+34,Thank You Thank You,4.9,(282),$1–10,Coffee shop,700 Sansom St
+35,Good Karma Cafe,4.4,(260),$10–20,Cafe,265 Broad St
+36,Elixr Coffee Roasters,4.4,(36),$1–10,Coffee shop,1600 Market St
+37,Sabrina's Cafe,4.6,"(3,523)",$10–20,Cafe,1804 Callowhill St
+38,Gran Caffe L'Aquila,4.6,"(3,022)",$$,Coffee shop,1716 Chestnut St
+39,Bison Coffee,4.5,(145),$1–10,Cafe,1600 Callowhill St
+40,Le Pain Quotidien,4.3,(764),$10–20,Coffee shop,1425 Walnut St
+41,La Colombe Coffee Workshop,4.5,"(1,325)",$1–10,Coffee shop,1414 S Penn Square
+42,La Colombe Coffee Workshop,4.6,"(1,167)",$1–10,Coffee shop,130 S 19th St
+43,Enswell,4.4,(152),$30–50,Coffee shop,1528 Spruce St
+44,Waterfront Gourmet,4.3,(121),$10–20,Cafe,1414 S Penn Square
+45,Bluestone Lane Arch Street Coffee Shop,4.1,(57),$1–10,Coffee shop,1717 Arch St
+46,Bluestone Lane Walnut Street Café,4.5,(199),$10–20,Coffee shop,2000 Walnut St
+47,Walnut Street Cafe,4.2,(748),$20–30,Cafe,2929 Walnut St
+48,CALLO Skincare Bar,4.7,(74),$10–20,Cafe,1800 Callowhill St
+49,Monk's Cafe,4.7,"(3,902)",$20–30,Cafe,264 S 16th St
+50,Academy Coffee + Market,4.8,(14),$10–20,Coffee shop,237 S Broad St
+51,Red Parasol Cafe,4.4,(88),$1–10,Coffee shop,220 Market St
+52,Passero's Coffee Roasters,4.3,(40),$1–10,Coffee shop,"The Wanamaker Building, 100 E Penn Sq, N Juniper St Lobby"
+53,The Board and Brew,4.2,(341),$10–20,Coffee shop,"33rd & Chestnut, 3200 Chestnut St"
+54,FRIEDA,4.6,(661),$10–20,Cafe,320 Walnut St
+55,Coffee Tea & Company,4.8,(170),$10–20,Cafe,301 Market St
+56,Konditori Coffee,4.6,(309),$1–10,Cafe,40 S 17th St
+57,Peddler Coffee,4.6,(390),$1–10,Coffee shop,2100 Spring St
+58,Old City Coffee,4.5,(445),$1–10,Coffee shop,221 Church St
+59,Capital One Café,4.1,(371),$1–10,Coffee shop,135 S 17th St Suite A Suite A
+60,Bluestone Lane Rittenhouse Café,4.1,(608),$10–20,Coffee shop,1701 Locust St
+61,K'Far Cafe Philadelphia,4.5,(827),$10–20,Cafe,110 S 19th St
+62,Bower Cafe 1213,4.5,(374),$1–10,Coffee shop,1213 Walnut St
+63,Jiggy Coffee,4.9,(209),$1–10,Coffee shop,1000 Pine St
+64,Elixr Coffee Roasters,4.6,(341),$1–10,Coffee shop,315 N 12th St
+65,Habitat Coffee House,4.6,(616),$1–10,Coffee shop,1101 Spruce St
+66,One Shot Coffee,4.2,(761),$10–20,Cafe,217 W George St
+67,The Last Drop Coffee House,4.2,(279),$1–10,Coffee shop,1300 Pine St
+68,Passero's Coffee Roasters,4.6,(282),$1–10,Coffee shop,"The Franklin Building, 834 Chestnut St"
+69,Hard Rock Cafe Philadelphia,4.1,"(4,768)",$$,American,1113 Market St
+70,T Cafe,4.2,(121),$1–10,Cafe,108 Chestnut St #4
+71,Capriccio Cafe and Bar @ Cret Park,3.7,(287),$10–20,Cafe,"at Cret Park, 110 N 16th St"
+72,Higher Grounds,4.5,(285),$1–10,Coffee shop,631 N 3rd St
+73,Old City Coffee,4.3,(197),$1–10,Coffee shop,1136 Arch St
+74,Caribou Cafe,4.2,(747),$$,French,1126 Walnut St
+75,Rival Bros Coffee Bar,4.9,(25),$1–10,Coffee shop,1134 Sansom St
+76,Vineyards Cafe,4.6,(326),$10–20,Cafe,847 N 16th St
+77,Café Square One,4.5,(461),$10–20,Cafe,311 Market St
+78,Ultimo Coffee,4.5,(369),$1–10,Coffee shop,2149 Catharine St
+79,Cafe 1751,5.0,(1),,Cafe,800 Spruce Street 1 Cathcart
+80,Rowhome Coffee - Pine Street,4.5,(273),$10–20,Coffee shop,2536 Pine St
+81,La Colombe Coffee Workshop,4.6,"(1,923)",$1–10,Coffee shop,1335 Frankford Ave
+82,Old City Coffee: Pad Annex,4.3,(44),$1–10,Coffee shop,"Reading Terminal Market, Annex Location, 1136 Arch St"
+83,Cafe La Maude,4.7,"(2,633)",$20–30,Cafe,816 N 4th St
+84,Schmear It,4.4,(107),$1–10,Bagel shop,19 S 12th St
+85,La Colombe Coffee Workshop,4.5,(856),$1–10,Cafe,100 S Independence Mall W #110
+86,Herman's Coffee,4.8,(450),$1–10,Cafe,1313 S 3rd St
+87,Almaz Cafe,4.6,(327),$10–20,Ethiopian,140 S 20th St
+88,The Commons Café,3.1,(13),$10–20,Cafe,"One Logan Square, 1 Logan Square"
+89,Cambridge St Coffee House,4.6,(168),$1–10,Coffee shop,1733 Ridge Ave
+90,Arterial Coffee,4.8,(202),$1–10,Coffee shop,3100-02 Spring Garden St
+91,Eggcellent Cafe,4.6,(766),$10–20,Coffee shop,113 Chestnut St
+92,Persimmon Coffee,4.8,(195),$1–10,Coffee shop,11 W Girard Ave
+93,Es Cafe Lounge,4.6,(76),$1–10,Coffee shop,1447 N American St
+94,Menagerie Coffee,4.6,(716),$1–10,Coffee shop,18 S 3rd St
+95,Torch - Wood Cafe,4.3,(272),$10–20,Cafe,303 N 3rd St
+96,Green Eggs Café,4.4,"(4,258)",$20–30,Cafe,1301 Locust St
+97,3J's Cafe,4.4,(792),$10–20,Brunch,317 Market St
+98,Café Lutécia,4.6,(205),$10–20,Cafe,2301 Lombard St
